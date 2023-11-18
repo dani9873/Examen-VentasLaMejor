@@ -1,0 +1,39 @@
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\bin\Debug\VentasLaMejor.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\bin\Debug\VentasLaMejor.exe
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\bin\Debug\VentasLaMejor.pdb
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmAnulaciones.resources
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmListadoProductosCompleto.resources
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmMenu.resources
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmVentas.resources
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.exe
+c:\users\hp\documents\visual studio 2015\Projects\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.pdb
+C:\Users\HP\Documents\DriveJans\IEA\2023\LaboratorioII\IIIUnidad\VentasLaMejor\VentasLaMejor\bin\Debug\VentasLaMejor.exe.config
+C:\Users\HP\Documents\DriveJans\IEA\2023\LaboratorioII\IIIUnidad\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.exe
+C:\Users\HP\Documents\DriveJans\IEA\2023\LaboratorioII\IIIUnidad\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.pdb
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\bin\Debug\VentasLaMejor.exe.config
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.exe
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.pdb
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\bin\Debug\VentasLaMejor.exe
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\bin\Debug\VentasLaMejor.pdb
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\bin\Debug\libreriaIEACLA.dll
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\bin\Debug\libreriaIEACLA.pdb
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.csprojResolveAssemblyReference.cache
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmAnulaciones.resources
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmListadoProductosCompleto.resources
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmMenu.resources
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmVentas.resources
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.Properties.Resources.resources
+C:\Users\IEA\Documents\Rich\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmAnulaciones.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmListadoProductosCompleto.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmMenu.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.frmVentas.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.Properties.Resources.resources
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.exe
+C:\Users\Usuario\Documents\UMG\Proyecto\VentasLaMejor\VentasLaMejor\obj\Debug\VentasLaMejor.pdb
